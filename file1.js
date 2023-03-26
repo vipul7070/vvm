@@ -112,11 +112,17 @@
 
 
 function exampal(name="vipul"){
-    return `hiii iam  ${name}!`;
+    return `hiii iam   ${name}!`;
 
 }
    const result = exampal();
    console.log(result);
+
+
+
+  //  this is comme
+   
+   
 
 
 
